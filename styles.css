@@ -1,0 +1,18 @@
+.niceButton {
+  text-align: center;
+  font-size: 20px;
+  padding: 8px;
+  border-radius: 12px;
+  background-color: white;
+  color: black;
+  margin-left: 685px;
+  transition: 250ms;
+  border: 2px solid black;
+  display:block;
+}
+
+.niceButton:hover {
+  color: white;
+  background-color: black;
+  border: 2px solid white;
+}
